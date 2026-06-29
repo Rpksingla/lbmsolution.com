@@ -1,0 +1,1178 @@
+[
+  {
+    "country_code": "+971",
+    "country_name": "United Arab Emirates",
+    "flag": "AE",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+44",
+    "country_name": "United Kingdom",
+    "flag": "GB",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+65",
+    "country_name": "Singapore",
+    "flag": "SG",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+61",
+    "country_name": "Australia",
+    "flag": "AU",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+1",
+    "country_name": "Canada",
+    "flag": "CA",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+91",
+    "country_name": "India",
+    "flag": "IN",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+93",
+    "country_name": "Afghanistan",
+    "flag": "AF",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+355",
+    "country_name": "Albania",
+    "flag": "AL",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+213",
+    "country_name": "Algeria",
+    "flag": "DZ",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+376",
+    "country_name": "Andorra",
+    "flag": "AD",
+    "phone_number_length": 6
+  },
+  {
+    "country_code": "+244",
+    "country_name": "Angola",
+    "flag": "AO",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+1-268",
+    "country_name": "Antigua and Barbuda",
+    "flag": "AG",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+54",
+    "country_name": "Argentina",
+    "flag": "AR",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+374",
+    "country_name": "Armenia",
+    "flag": "AM",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+297",
+    "country_name": "Aruba",
+    "flag": "AW",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+43",
+    "country_name": "Austria",
+    "flag": "AT",
+    "phone_number_length": 11
+  },
+  {
+    "country_code": "+994",
+    "country_name": "Azerbaijan",
+    "flag": "AZ",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+1-242",
+    "country_name": "Bahamas",
+    "flag": "BS",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+973",
+    "country_name": "Bahrain",
+    "flag": "BH",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+880",
+    "country_name": "Bangladesh",
+    "flag": "BD",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+1-246",
+    "country_name": "Barbados",
+    "flag": "BB",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+375",
+    "country_name": "Belarus",
+    "flag": "BY",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+32",
+    "country_name": "Belgium",
+    "flag": "BE",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+501",
+    "country_name": "Belize",
+    "flag": "BZ",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+229",
+    "country_name": "Benin",
+    "flag": "BJ",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+975",
+    "country_name": "Bhutan",
+    "flag": "BT",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+591",
+    "country_name": "Bolivia",
+    "flag": "BO",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+387",
+    "country_name": "Bosnia and Herzegovina",
+    "flag": "BA",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+267",
+    "country_name": "Botswana",
+    "flag": "BW",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+55",
+    "country_name": "Brazil",
+    "flag": "BR",
+    "phone_number_length": 11
+  },
+  {
+    "country_code": "+673",
+    "country_name": "Brunei",
+    "flag": "BN",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+359",
+    "country_name": "Bulgaria",
+    "flag": "BG",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+226",
+    "country_name": "Burkina Faso",
+    "flag": "BF",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+257",
+    "country_name": "Burundi",
+    "flag": "BI",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+855",
+    "country_name": "Cambodia",
+    "flag": "kH",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+237",
+    "country_name": "Cameroon",
+    "flag": "CM",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+238",
+    "country_name": "Cape Verde",
+    "flag": "CV",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+236",
+    "country_name": "Central African Republic",
+    "flag": "CF",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+235",
+    "country_name": "Chad",
+    "flag": "TD",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+56",
+    "country_name": "Chile",
+    "flag": "CL",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+86",
+    "country_name": "China",
+    "flag": "CN",
+    "phone_number_length": 11
+  },
+  {
+    "country_code": "+57",
+    "country_name": "Colombia",
+    "flag": "CO",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+269",
+    "country_name": "Comoros",
+    "flag": "KM",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+242",
+    "country_name": "Congo (Republic of the)",
+    "flag": "CG",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+243",
+    "country_name": "Congo (Democratic Republic of the)",
+    "flag": "CD",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+506",
+    "country_name": "Costa Rica",
+    "flag": "CR",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+385",
+    "country_name": "Croatia",
+    "flag": "HR",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+53",
+    "country_name": "Cuba",
+    "flag": "CU",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+357",
+    "country_name": "Cyprus",
+    "flag": "CY",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+420",
+    "country_name": "Czech Republic",
+    "flag": "CZ",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+45",
+    "country_name": "Denmark",
+    "flag": "DK",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+253",
+    "country_name": "Djibouti",
+    "flag": "DJ",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+1-767",
+    "country_name": "Dominica",
+    "flag": "DM",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+1-809",
+    "country_name": "Dominican Republic",
+    "flag": "DO",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+593",
+    "country_name": "Ecuador",
+    "flag": "EC",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+20",
+    "country_name": "Egypt",
+    "flag": "EG",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+503",
+    "country_name": "El Salvador",
+    "flag": "SV",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+240",
+    "country_name": "Equatorial Guinea",
+    "flag": "GQ",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+291",
+    "country_name": "Eritrea",
+    "flag": "ER",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+372",
+    "country_name": "Estonia",
+    "flag": "EE",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+251",
+    "country_name": "Ethiopia",
+    "flag": "ET",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+679",
+    "country_name": "Fiji",
+    "flag": "FJ",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+358",
+    "country_name": "Finland",
+    "flag": "FI",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+33",
+    "country_name": "France",
+    "flag": "FR",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+241",
+    "country_name": "Gabon",
+    "flag": "GA",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+220",
+    "country_name": "Gambia",
+    "flag": "GM",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+995",
+    "country_name": "Georgia",
+    "flag": "GE",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+49",
+    "country_name": "Germany",
+    "flag": "DE",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+233",
+    "country_name": "Ghana",
+    "flag": "GH",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+30",
+    "country_name": "Greece",
+    "flag": "GR",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+1-473",
+    "country_name": "Grenada",
+    "flag": "GD",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+502",
+    "country_name": "Guatemala",
+    "flag": "GT",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+224",
+    "country_name": "Guinea",
+    "flag": "GN",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+245",
+    "country_name": "Guinea-Bissau",
+    "flag": "GW",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+592",
+    "country_name": "Guyana",
+    "flag": "GY",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+509",
+    "country_name": "Haiti",
+    "flag": "HT",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+504",
+    "country_name": "Honduras",
+    "flag": "HN",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+36",
+    "country_name": "Hungary",
+    "flag": "HU",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+354",
+    "country_name": "Iceland",
+    "flag": "IS",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+62",
+    "country_name": "Indonesia",
+    "flag": "ID",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+98",
+    "country_name": "Iran",
+    "flag": "IR",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+964",
+    "country_name": "Iraq",
+    "flag": "IQ",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+353",
+    "country_name": "Ireland",
+    "flag": "IE",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+972",
+    "country_name": "Israel",
+    "flag": "IL",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+39",
+    "country_name": "Italy",
+    "flag": "IT",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+225",
+    "country_name": "Ivory Coast",
+    "flag": "CI",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+1-876",
+    "country_name": "Jamaica",
+    "flag": "JM",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+81",
+    "country_name": "Japan",
+    "flag": "JP",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+962",
+    "country_name": "Jordan",
+    "flag": "JO",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+7",
+    "country_name": "Kazakhstan",
+    "flag": "KZ",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+254",
+    "country_name": "Kenya",
+    "flag": "KE",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+686",
+    "country_name": "Kiribati",
+    "flag": "KI",
+    "phone_number_length": 5
+  },
+  {
+    "country_code": "+965",
+    "country_name": "Kuwait",
+    "flag": "KW",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+996",
+    "country_name": "Kyrgyzstan",
+    "flag": "KG",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+856",
+    "country_name": "Laos",
+    "flag": "LA",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+371",
+    "country_name": "Latvia",
+    "flag": "LV",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+961",
+    "country_name": "Lebanon",
+    "flag": "LB",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+266",
+    "country_name": "Lesotho",
+    "flag": "LS",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+231",
+    "country_name": "Liberia",
+    "flag": "LR",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+218",
+    "country_name": "Libya",
+    "flag": "LY",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+423",
+    "country_name": "Liechtenstein",
+    "flag": "LI",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+370",
+    "country_name": "Lithuania",
+    "flag": "LT",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+352",
+    "country_name": "Luxembourg",
+    "flag": "LU",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+389",
+    "country_name": "Macedonia",
+    "flag": "MK",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+261",
+    "country_name": "Madagascar",
+    "flag": "MG",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+265",
+    "country_name": "Malawi",
+    "flag": "MW",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+60",
+    "country_name": "Malaysia",
+    "flag": "MY",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+960",
+    "country_name": "Maldives",
+    "flag": "MV",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+223",
+    "country_name": "Mali",
+    "flag": "ML",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+356",
+    "country_name": "Malta",
+    "flag": "MT",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+692",
+    "country_name": "Marshall Islands",
+    "flag": "MH",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+222",
+    "country_name": "Mauritania",
+    "flag": "MR",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+230",
+    "country_name": "Mauritius",
+    "flag": "MU",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+52",
+    "country_name": "Mexico",
+    "flag": "MX",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+691",
+    "country_name": "Micronesia",
+    "flag": "FM",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+373",
+    "country_name": "Moldova",
+    "flag": "MD",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+377",
+    "country_name": "Monaco",
+    "flag": "MC",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+976",
+    "country_name": "Mongolia",
+    "flag": "MN",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+382",
+    "country_name": "Montenegro",
+    "flag": "ME",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+1-664",
+    "country_name": "Montserrat",
+    "flag": "MS",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+212",
+    "country_name": "Morocco",
+    "flag": "MA",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+258",
+    "country_name": "Mozambique",
+    "flag": "MZ",
+    "phone_number_length": 12
+  },
+  {
+    "country_code": "+264",
+    "country_name": "Namibia",
+    "flag": "NA",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+674",
+    "country_name": "Nauru",
+    "flag": "NR",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+977",
+    "country_name": "Nepal",
+    "flag": "NP",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+31",
+    "country_name": "Netherlands",
+    "flag": "NL",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+64",
+    "country_name": "New Zealand",
+    "flag": "NZ",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+505",
+    "country_name": "Nicaragua",
+    "flag": "NI",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+227",
+    "country_name": "Niger",
+    "flag": "NE",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+234",
+    "country_name": "Nigeria",
+    "flag": "NG",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+683",
+    "country_name": "Niue",
+    "flag": "NU",
+    "phone_number_length": 4
+  },
+  {
+    "country_code": "+850",
+    "country_name": "North Korea",
+    "flag": "KP",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+1-670",
+    "country_name": "Northern Mariana Islands",
+    "flag": "MP",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+47",
+    "country_name": "Norway",
+    "flag": "NO",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+968",
+    "country_name": "Oman",
+    "flag": "OM",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+92",
+    "country_name": "Pakistan",
+    "flag": "PK",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+680",
+    "country_name": "Palau",
+    "flag": "PW",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+970",
+    "country_name": "Palestine",
+    "flag": "PS",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+507",
+    "country_name": "Panama",
+    "flag": "PA",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+675",
+    "country_name": "Papua New Guinea",
+    "flag": "PG",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+595",
+    "country_name": "Paraguay",
+    "flag": "PY",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+51",
+    "country_name": "Peru",
+    "flag": "PE",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+63",
+    "country_name": "Philippines",
+    "flag": "PH",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+48",
+    "country_name": "Poland",
+    "flag": "PL",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+351",
+    "country_name": "Portugal",
+    "flag": "PT",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+1-787",
+    "country_name": "Puerto Rico",
+    "flag": "PR",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+974",
+    "country_name": "Qatar",
+    "flag": "QA",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+40",
+    "country_name": "Romania",
+    "flag": "RO",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+7",
+    "country_name": "Russia",
+    "flag": "RU",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+250",
+    "country_name": "Rwanda",
+    "flag": "RW",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+685",
+    "country_name": "Samoa",
+    "flag": "WS",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+378",
+    "country_name": "San Marino",
+    "flag": "SM",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+239",
+    "country_name": "Sao Tome and Principe",
+    "flag": "ST",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+966",
+    "country_name": "Saudi Arabia",
+    "flag": "SA",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+221",
+    "country_name": "Senegal",
+    "flag": "SN",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+381",
+    "country_name": "Serbia",
+    "flag": "RS",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+248",
+    "country_name": "Seychelles",
+    "flag": "SC",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+232",
+    "country_name": "Sierra Leone",
+    "flag": "SL",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+421",
+    "country_name": "Slovakia",
+    "flag": "SK",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+386",
+    "country_name": "Slovenia",
+    "flag": "SI",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+677",
+    "country_name": "Solomon Islands",
+    "flag": "SB",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+252",
+    "country_name": "Somalia",
+    "flag": "SO",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+27",
+    "country_name": "South Africa",
+    "flag": "ZA",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+82",
+    "country_name": "South Korea",
+    "flag": "KR",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+34",
+    "country_name": "Spain",
+    "flag": "ES",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+94",
+    "country_name": "Sri Lanka",
+    "flag": "LK",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+249",
+    "country_name": "Sudan",
+    "flag": "SD",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+597",
+    "country_name": "Suriname",
+    "flag": "SR",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+268",
+    "country_name": "Swaziland",
+    "flag": "SZ",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+46",
+    "country_name": "Sweden",
+    "flag": "SE",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+41",
+    "country_name": "Switzerland",
+    "flag": "CH",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+963",
+    "country_name": "Syria",
+    "flag": "SY",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+886",
+    "country_name": "Taiwan",
+    "flag": "TW",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+992",
+    "country_name": "Tajikistan",
+    "flag": "TJ",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+255",
+    "country_name": "Tanzania",
+    "flag": "TZ",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+66",
+    "country_name": "Thailand",
+    "flag": "TH",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+670",
+    "country_name": "Timor-Leste",
+    "flag": "TL",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+228",
+    "country_name": "Togo",
+    "flag": "TG",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+690",
+    "country_name": "Tokelau",
+    "flag": "TK",
+    "phone_number_length": 4
+  },
+  {
+    "country_code": "+676",
+    "country_name": "Tonga",
+    "flag": "TO",
+    "phone_number_length": 5
+  },
+  {
+    "country_code": "+1-868",
+    "country_name": "Trinidad and Tobago",
+    "flag": "TT",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+216",
+    "country_name": "Tunisia",
+    "flag": "TN",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+90",
+    "country_name": "Turkey",
+    "flag": "TR",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+993",
+    "country_name": "Turkmenistan",
+    "flag": "TM",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+688",
+    "country_name": "Tuvalu",
+    "flag": "TV",
+    "phone_number_length": 5
+  },
+  {
+    "country_code": "+256",
+    "country_name": "Uganda",
+    "flag": "UG",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+380",
+    "country_name": "Ukraine",
+    "flag": "UA",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+1",
+    "country_name": "United States",
+    "flag": "US",
+    "phone_number_length": 10
+  },
+  {
+    "country_code": "+598",
+    "country_name": "Uruguay",
+    "flag": "UY",
+    "phone_number_length": 8
+  },
+  {
+    "country_code": "+998",
+    "country_name": "Uzbekistan",
+    "flag": "UZ",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+678",
+    "country_name": "Vanuatu",
+    "flag": "VU",
+    "phone_number_length": 7
+  },
+  {
+    "country_code": "+58",
+    "country_name": "Venezuela",
+    "flag": "VE",
+    "phone_number_length": 11
+  },
+  {
+    "country_code": "+84",
+    "country_name": "Vietnam",
+    "flag": "VN",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+967",
+    "country_name": "Yemen",
+    "flag": "YE",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+260",
+    "country_name": "Zambia",
+    "flag": "ZM",
+    "phone_number_length": 9
+  },
+  {
+    "country_code": "+263",
+    "country_name": "Zimbabwe",
+    "flag": "ZW",
+    "phone_number_length": 9
+  }
+]

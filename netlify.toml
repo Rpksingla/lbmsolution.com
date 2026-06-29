@@ -1,0 +1,22 @@
+# Netlify deployment config — LBM Solutions marketing site (Next.js 16, SSR).
+#
+# The Next.js Runtime (@netlify/plugin-nextjs v5, already a devDependency) handles
+# SSR, ISR, API routes, and image/edge functions automatically.
+#
+# NOTE: `publish` is set to `.next` on purpose. The Netlify UI had the Publish
+# directory pinned to the repo root (publishOrigin: ui), which makes
+# @netlify/plugin-nextjs abort with "publish directory cannot be the same as the
+# base directory". A value here (origin: config) overrides the UI. `.next` is the
+# exact directory the v5 runtime uses when publish is left blank, so this is safe.
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  # Next.js 16 requires Node 20.9+. Pinned to match local dev (v22) so Netlify
+  # does not fall back to an older default Node and fail the build.
+  NODE_VERSION = "22"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
